@@ -16,7 +16,7 @@
           "settings": {
           }
         },
-        "lucid_blocks_star_rating_T8cdLd": {
+        "lucid_blocks_star_rating_gDKUzN": {
           "type": "shopify:\/\/apps\/lucid-blocks\/blocks\/star_rating\/e7ac3434-153e-4819-8f8e-e6ea078d9d59",
           "settings": {
             "checkbox_label": "I accept the terms and conditions"
@@ -30,7 +30,7 @@
       },
       "block_order": [
         "subtotal",
-        "lucid_blocks_star_rating_T8cdLd",
+        "lucid_blocks_star_rating_gDKUzN",
         "buttons"
       ],
       "settings": {
