@@ -128,14 +128,6 @@
     "content_for_index": [
 
     ],
-    "blocks": {
-      "14590701061063390314": {
-        "type": "shopify:\/\/apps\/product-love\/blocks\/productlove\/a655717c-4130-4382-a430-152de2bbdb08",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
